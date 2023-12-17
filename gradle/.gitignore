@@ -1,0 +1,6 @@
+# this is a non-generated .gitignore file,
+# as well as app/src/.gitignore
+
+*.jar
+*~
+*#*

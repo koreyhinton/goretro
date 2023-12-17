@@ -1,0 +1,7 @@
+# this is a non-generated .gitignore file,
+# as well as gradle/.gitignore
+
+*.webp
+*.png
+*~
+*#*
